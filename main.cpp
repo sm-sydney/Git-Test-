@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-//comment to see git diff 
+//comment to see git diff
+//comment for merge oops
 int sum (int n){
   int total = 0;
 
