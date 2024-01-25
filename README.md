@@ -1,0 +1,1 @@
+Hello, I am Sydney Marshall. This is my README file for my first assigment in CSCI325. I intend to use this repo to practice with git. 
